@@ -5,6 +5,8 @@ $nav_menu = '
     <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; display: flex; justify-content: flex-start; flex-wrap: wrap;">
         
         <li style="margin-right: 20px;"><a href="dashboard.php" style="color: white; text-decoration: none; padding: 10px 15px; display: block;">🏠 Dashboard</a></li>
+        <li style="margin-right: 20px;"><a href="alerts_dashboard.php" style="color: #ff9800; text-decoration: none; padding: 10px 15px; display: block;">🔔 ศูนย์แจ้งเตือน</a></li>
+        <li style="margin-right: 20px;"><a href="settings.php" style="color: #607d8b; text-decoration: none; padding: 10px 15px; display: block;">⚙️ ตั้งค่าระบบ</a></li>
         
         <li style="margin-right: 20px;"><a href="room_management.php" style="color: white; text-decoration: none; padding: 10px 15px; display: block;">🏨 จัดการห้องพัก</a></li>
         <li style="margin-right: 20px;"><a href="add_room.php" style="color: yellow; text-decoration: none; padding: 10px 15px; display: block;">+ เพิ่มห้องใหม่</a></li>
@@ -19,6 +21,8 @@ $nav_menu = '
         <li style="margin-right: 20px;"><a href="add_expense.php" style="color: white; text-decoration: none; padding: 10px 15px; display: block;">➕ บันทึกรายจ่าย</a></li>
         
         <li style="margin-right: 20px;"><a href="income_report.php" style="color: orange; text-decoration: none; padding: 10px 15px; display: block;">📊 รายงานรายรับ</a></li>
+        <li style="margin-right: 20px;"><a href="arrears_report.php" style="color: red; text-decoration: none; padding: 10px 15px; display: block;">🚨 รายงานค้างชำระ</a></li>
+        <li style="margin-right: 20px;"><a href="pnl_report.php" style="color: #64dd17; text-decoration: none; padding: 10px 15px; display: block;">💹 กำไร/ขาดทุน</a></li>
         <li style="margin-right: 20px;"><a href="expense_report.php" style="color: white; text-decoration: none; padding: 10px 15px; display: block;">📋 รายงานรายจ่าย</a></li>
         
     </ul>
